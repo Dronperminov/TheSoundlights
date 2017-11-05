@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TheSoundlights.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="topMost" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="spectrum" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="backColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#2f2f2f</Value>
+    </Setting>
+    <Setting Name="foreColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#ffffff</Value>
+    </Setting>
+    <Setting Name="colColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#3399ff</Value>
+    </Setting>
+    <Setting Name="statusBackColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#293b3d</Value>
+    </Setting>
+    <Setting Name="statusForeColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#959fa1</Value>
+    </Setting>
+    <Setting Name="channelsNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

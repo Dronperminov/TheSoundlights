@@ -1,0 +1,6 @@
+backColor = #000; // фон
+foreColor = #fff; // текст
+colColor = #ff9933;
+
+statusBackColor = #ff9933; // фон статусной строки
+statusForeColor = #000000; // текст статустной строки
